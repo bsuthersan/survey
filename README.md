@@ -1,4 +1,4 @@
-# survey
+# Shiny Survey
 
 A survey made in Shiny, designed to collect data and save it into a Dropbox account.
 
