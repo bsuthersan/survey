@@ -4,7 +4,7 @@ A survey made in Shiny, designed to collect data and save it into a Dropbox acco
 
 Made using the guidance outlined in the "Persistent data storage in Shiny Apps" post by Dean Attali. https://shiny.rstudio.com/articles/persistent-data-storage.html
 
-#Background
+# Background
 
 The students that we work with can cycle in and out of partner services, sometimes on a weekly basis, and sometimes only up to an hour before the session starts. 
 
